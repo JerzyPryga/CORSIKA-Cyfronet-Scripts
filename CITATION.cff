@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pryga
+    given-names: Jerzy
+    orcid: https://orcid.org/0000-0001-5033-9334
+title: "Scripts to run CORSIKA on Ares Cyfronet"
+version: 1.0
+date-released: 2026-10-31
